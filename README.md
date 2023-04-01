@@ -1,2 +1,2 @@
 # applescripts
-overcoming apples shortcomings with with no mouse on imac
+overcoming apple's shortcomings with no mouse on mac mini
